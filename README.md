@@ -4,7 +4,7 @@
 
 ### 使用
 
-本项目是后端代码，前端请前往
+本项目是后端代码，前端请前往[blog-vue](https://github.com/irenjie/blog-vue)
 
 数据库结构已放在项目中，在 application.yml 中修改数据库信息
 
