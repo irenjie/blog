@@ -1,6 +1,6 @@
 # blog   
 
-一个简单的 SpringBoot + Vue + ElementUI 人事管理系统
+一个简单的 SpringBoot + Vue + ElementUI 博客网站
 
 ### 使用
 
